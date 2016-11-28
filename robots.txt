@@ -1,0 +1,11 @@
+User-agent: Mediapartners-Google
+User-agent: *
+Disallow: /gd-admin
+Allow: /
+User-agent: Adsbot-Google
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: Googlebot-Mobile
+Allow: /
+Sitemap: http://gedoor.com/sitemap.xml
