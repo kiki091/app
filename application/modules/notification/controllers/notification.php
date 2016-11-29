@@ -1,8 +1,8 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 
 	class Notification extends User_Controller
-    {
-        public function __construct()
+    	{
+        	public function __construct()
 		{
 			parent::__construct();
 			$this->load->model('notification_m');
