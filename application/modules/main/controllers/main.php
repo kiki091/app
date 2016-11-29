@@ -17,7 +17,7 @@ class Main extends Public_Controller {
 	{
 		$this->data['code'] = date("mdYsiH");
         $this->data['getCode'] = str_shuffle($this->data['code']);
-        $this->data['office_name'] = $this->global_m->getOfficeNamw();
+        $this->data['office_name'] = $this->global_m->getOfficeName();
         $this->data['branch_office'] = $this->global_m->getBranchOffice();
         $this->data['problem_category'] = $this->global_m->getProblemCategory();
         $this->data['problem_status'] = $this->global_m->getProblemStatus();
