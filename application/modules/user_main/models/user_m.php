@@ -2,41 +2,26 @@
 
 class User_m extends CI_Model
 {
-<<<<<<< HEAD
+
     public function getTotalTicketPending($job_desk ='')
-=======
-    	public function getTotalTicketPending($job_desk ='')
->>>>>>> origin/master
 	{
 		$this->db->where(array('is_active'=> '0', 'assignee'=>$job_desk));
 		return $this->db->count_all_results('ticket');
 	}
     
-<<<<<<< HEAD
     public function getTotalTicketOnProgress($user_id ='')
-=======
-    	public function getTotalTicketOnProgress($user_id ='')
->>>>>>> origin/master
 	{
 		$this->db->where(array('status'=> 'progress', 'users_id'=>$user_id ));
 		return $this->db->count_all_results('ticket_detail');
 	}
     
-<<<<<<< HEAD
     public function getTotalTicketFinished($user_id ='')
-=======
-    	public function getTotalTicketFinished($user_id ='')
->>>>>>> origin/master
 	{
 		$this->db->where(array('status'=> 'resolved', 'users_id'=>$user_id ));
 		return $this->db->count_all_results('ticket_detail');
 	}
     
-<<<<<<< HEAD
     public function getTicketPending($job_desk ='')
-=======
-    	public function getTicketPending($job_desk ='')
->>>>>>> origin/master
 	{
 		$this->db->select('id, title, code, description, recipient, time_create, branch, is_active, assignee, problem_status', false);
 		$this->db->from('ticket');

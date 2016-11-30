@@ -9,7 +9,6 @@
 				?>
 							<div class="profile-activity clearfix">
 								<div>
-									<img class="pull-left" alt="Alex Doe's avatar" src="<?PHP echo base_url('assets/avatars/avatar5.png');?>" />
 									<a class="user" href="#"> <?php echo strtolower($ticket_pending['recipient']);?> </a>
 										submit problem "<?php echo strtolower($ticket_pending['title']);?>" assignee to <?php echo $ticket_pending['assignee'];?>.
 									<a href="#">Take a look</a>
