@@ -2,29 +2,29 @@
 
 class User_m extends CI_Model
 {
-    public function getTotalTicketPending()
+    public function getTotalTicketPending($job_desk ='')
 	{
-		$this->db->where('is_active', '0');
+		$this->db->where(array('is_active'=> '0', 'assignee'=>$job_desk));
 		return $this->db->count_all_results('ticket');
 	}
     
-    public function getTotalTicketOnProgress()
+    public function getTotalTicketOnProgress($user_id ='')
 	{
-		$this->db->where('status', 'progress');
+		$this->db->where(array('status'=> 'progress', 'users_id'=>$user_id ));
 		return $this->db->count_all_results('ticket_detail');
 	}
     
-    public function getTotalTicketFinished()
+    public function getTotalTicketFinished($user_id ='')
 	{
-		$this->db->where('status', 'resolved');
+		$this->db->where(array('status'=> 'resolved', 'users_id'=>$user_id ));
 		return $this->db->count_all_results('ticket_detail');
 	}
     
-    public function getTicketPending()
+    public function getTicketPending($job_desk ='')
 	{
-		$this->db->select('id, title, code, description, time_create, branch, is_active, assignee, problem_status', false);
+		$this->db->select('id, title, code, description, recipient, time_create, branch, is_active, assignee, problem_status', false);
 		$this->db->from('ticket');
-		$this->db->where('is_active', '0');
+		$this->db->where(array('is_active'=> '0', 'assignee'=>$job_desk));
 		$this->db->order_by('time_create', 'desc');
 		$this->db->limit('10', '0');
 		$res = $this->db->get();

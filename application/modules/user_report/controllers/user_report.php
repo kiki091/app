@@ -13,9 +13,11 @@
 
 		public function index()
 		{
+            $this->data['office_name'] = $this->global_m->getOfficeName();
             $this->data['branch_office'] = $this->global_m->getBranchOffice();
             $this->data['problem_category'] = $this->global_m->getProblemCategory();
             $this->data['problem_status'] = $this->global_m->getProblemStatus();
+            $this->data['menu_report'] = "active";
 
 			$this->data['title'] = 'REPORT';
 			$this->template->build('main',$this->data);
@@ -23,6 +25,7 @@
 
 		public function byBranchOffice()
         {
+            $this->form_validation->set_rules('office_name','Office Name','trim|xss_clean');
             $this->form_validation->set_rules('branch_office','Branch Office','trim|xss_clean');
             $this->form_validation->set_rules('problem_category','Problem Category','trim|xss_clean');
             $this->form_validation->set_rules('problem_status','Problem Status','trim|xss_clean');
@@ -35,7 +38,7 @@
                 if($this->data['report'] != NULL)
                 {
                     ob_start();
-                    $this->data['title'] = "SUPORT CENTER <br/>REGION ".strtoupper($this->input->post('branch_office'));
+                    $this->data['title'] = "SUPORT CENTER <br/> ".strtoupper($this->input->post('office_name')."<br/>REGION ".$this->input->post('branch_office'));
 
                     $content = $this->load->view('ReportBranchOffice',$this->data);
                     $content = ob_get_clean();
@@ -68,20 +71,18 @@
 
         public function byMonth()
         {
-
             $this->form_validation->set_rules('month','Month','trim|xss_clean');
+            $this->form_validation->set_rules('office_name','Office Name','trim|xss_clean');
             $this->form_validation->set_rules('branch_office','Branch Office','trim|xss_clean');
             $this->form_validation->set_rules('problem_category','Problem Category','trim|xss_clean');
-
             if($this->form_validation->run($this))
             {
                 $this->data['report'] = $this->user_report_m->printByMonth($this->input->post(NULL, TRUE));
-
+                
                 if($this->data['report'] != NULL)
                 {
                     ob_start();
-                    $this->data['title'] = "SUPORT CENTER <br/>REGION ".strtoupper($this->input->post('branch_office'));
-
+                    $this->data['title'] = "SUPORT CENTER <br/> ".strtoupper($this->input->post('office_name')."<br/>REGION ".$this->input->post('branch_office'));
                     $content = $this->load->view('ReportPerMonth',$this->data);
                     $content = ob_get_clean();
                     

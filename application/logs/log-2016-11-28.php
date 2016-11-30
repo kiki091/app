@@ -11,7 +11,3 @@ ERROR - 2016-11-28 00:04:27 --> Severity: Notice  --> Only variable references s
 ERROR - 2016-11-28 00:04:28 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
 ERROR - 2016-11-28 00:04:34 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
 ERROR - 2016-11-28 00:04:34 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
-ERROR - 2016-11-28 09:56:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
-ERROR - 2016-11-28 09:56:57 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
-ERROR - 2016-11-28 09:57:13 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
-ERROR - 2016-11-28 09:57:13 --> Query error: Table 'helpdesk_sys.administrator' doesn't exist

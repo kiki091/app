@@ -19,7 +19,7 @@ class Global_m extends CI_Model {
         return false;
     }
 
-    public function getOfficeNamw()
+    public function getOfficeName()
     {
         $this->db->select('id, office_name');
         $this->db->from('branch_office');

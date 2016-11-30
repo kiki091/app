@@ -24,7 +24,7 @@
 					<?php endif;?>
                     <div class="col-md-12 infobox-container">
                     <!-- Chose Category Report -->
-                    	<a href="#" data-toggle="modal" data-target="#modaReportFromJobDesk">
+                    	<a href="#" data-toggle="modal" data-target="#modaReportFromMonth">
 							<div class="infobox infobox-blue infobox-large infobox-dark">
 								<div class="infobox-icon">
 									<i class="ace-icon fa fa-print"></i>
@@ -32,7 +32,7 @@
 
 								<div class="infobox-data">
 									<div class="infobox-content">REPORT BY : </div>
-									<div class="infobox-content"><?php echo strtoupper($user['job_desk']);?></div>
+									<div class="infobox-content">MONTH</div>
 								</div>
 							</div>
 						</a>
@@ -45,7 +45,7 @@
 
 								<div class="infobox-data">
 									<div class="infobox-content">REPORT BY : </div>
-									<div class="infobox-content">BRANCH OFFICE</div>
+									<div class="infobox-content">DAY</div>
 								</div>
 							</div>
 						</a>
@@ -55,4 +55,5 @@
 			</div>
 		</div>
 	</div>
+	<?php $this->load->view('modaReportFromMonth');?>
 	<?php $this->load->view('modaReportFromBranchOffice');?>

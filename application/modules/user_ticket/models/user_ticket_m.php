@@ -3,11 +3,11 @@
 class User_Ticket_m extends CI_Model
 {
 	
-    public function getTicketPending()
-    {
-    	$this->db->select('id, title, code, description, time_create, branch, is_active, assignee, problem_status', false);
+    public function getTicketPending($job_desk ='')
+	{
+		$this->db->select('id, title, code, description, recipient, time_create, branch, is_active, assignee, problem_status', false);
 		$this->db->from('ticket');
-		$this->db->where('is_active', '0');
+		$this->db->where(array('is_active'=> '0', 'assignee'=>$job_desk));
 		$this->db->order_by('time_create', 'desc');
 		$this->db->limit('10', '0');
 		$res = $this->db->get();
@@ -15,7 +15,7 @@ class User_Ticket_m extends CI_Model
 		if ($res->num_rows() > 0) return $res->result_array();
 
 		return false;
-    }
+	}
 	
 	
     public function getDetailTicket($id)

@@ -17,7 +17,7 @@
 
 		public function LoadDataTicketForAccept()
 		{
-			$this->data['ticket_pending'] = $this->user_ticket_m->getTicketPending();
+			$this->data['ticket_pending'] = $this->user_ticket_m->getTicketPending($this->data['user']['job_desk']);
 			$this->load->view('TableTicketPending',$this->data);
 		}
 

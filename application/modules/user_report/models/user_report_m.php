@@ -20,12 +20,13 @@ class User_Report_m extends CI_Model
 
 	public function printByBranchOffice($input ='')
 	{
-		$thisYear = date('Y');
+		$day = strtotime($input['day']);
+		$perDay = date('Y-m-d',$day);
 
-		$this->db->select('a.id, a.title, a.code, a.description, a.time_create, a.problem_status, a.assignee, a.category, a.recipient, a.branch, a.is_active, b.ticket_id, b.time_accept, b.status, b.time_resolved', false);
+		$this->db->select('a.id, a.title, a.code, a.office_name, a.description, a.time_create, a.problem_status, a.assignee, a.category, a.recipient, a.branch, a.is_active, b.ticket_id, b.time_accept, b.status, b.time_resolved', false);
 		$this->db->from('ticket a');
 		$this->db->join('ticket_detail b', 'b.ticket_id = a.id', 'left');
-		$this->db->where(array('b.status'=>'resolved', 'a.category'=>$input['problem_category'], 'a.branch'=>$input['branch_office'] , 'DATE_FORMAT(b.time_resolved,"%m")'=>$input['month'], 'DATE_FORMAT(b.time_resolved,"%Y")'=>$thisYear));
+		$this->db->where(array('b.status'=>'resolved', 'a.office_name'=> $input['office_name'], 'a.problem_status'=>$input['problem_status'], 'a.category'=>$input['problem_category'], 'a.branch'=>$input['branch_office'] , 'DATE_FORMAT(b.time_resolved,"%Y-%m-%d")'=>$perDay));
 		$this->db->order_by('b.time_resolved', 'desc');
 		$res = $this->db->get();
 		
@@ -36,7 +37,16 @@ class User_Report_m extends CI_Model
 
 	public function printByMonth($input ='')
 	{
+		$this->db->select('a.id, a.title, a.code, a.office_name, a.description, a.time_create, a.problem_status, a.assignee, a.category, a.recipient, a.branch, a.is_active, b.ticket_id, b.time_accept, b.status, b.time_resolved', false);
+		$this->db->from('ticket a');
+		$this->db->join('ticket_detail b', 'b.ticket_id = a.id', 'left');
+		$this->db->where(array('b.status'=>'resolved', 'a.office_name'=> $input['office_name'], 'a.category'=>$input['problem_category'], 'a.branch'=>$input['branch_office'] , 'DATE_FORMAT(b.time_resolved,"%m")'=>$input['month']));
+		$this->db->order_by('b.time_resolved', 'desc');
+		$res = $this->db->get();
+		
+		if ($res->num_rows() > 0) return $res->result_array();
 
+		return false;
 	}
 
 }

@@ -34,7 +34,6 @@
 					<th class="content">TITLE</th>
 					<th class="content">STATUS</th>
 					<th class="content">CATEGORY</th>
-					<th class="content">BRANCH</th>
 					<th class="content">ASSIGNEE</th>
 					<th class="content">ACCEPT</th>
 					<th class="content">RESOLVED</th>
@@ -51,7 +50,6 @@
 					<td class="center"><?php echo $report['title'];?></td>
 					<td class="center"><?php echo $report['problem_status'];?></td>
 					<td class="center"><?php echo $report['category'];?></td>
-					<td class="center"><?php echo $report['branch'];?></td>
 					<td class="center"><?php echo $report['assignee'];?></td>
 					<td class="center"><?php echo db_to_date_only($report['time_accept']);?></td>
 					<td class="center"><?php echo db_to_date_only($report['time_resolved']);?></td>
