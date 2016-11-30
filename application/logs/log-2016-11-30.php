@@ -4182,3 +4182,1192 @@ ERROR - 2016-11-30 00:55:13 --> Severity: Notice  --> Only variable references s
 ERROR - 2016-11-30 00:55:13 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
 ERROR - 2016-11-30 00:55:13 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
 ERROR - 2016-11-30 00:55:13 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:02:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:03 --> Severity: Warning  --> mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\app\system\database\drivers\mysqli\mysqli_driver.php 76
+ERROR - 2016-11-30 11:03:03 --> Unable to connect to the database
+ERROR - 2016-11-30 11:03:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:13 --> Severity: Warning  --> mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\app\system\database\drivers\mysqli\mysqli_driver.php 76
+ERROR - 2016-11-30 11:03:13 --> Unable to connect to the database
+ERROR - 2016-11-30 11:03:27 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:28 --> Severity: Warning  --> Illegal string offset 'status' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 243
+ERROR - 2016-11-30 11:03:28 --> Severity: Warning  --> Illegal string offset 'status' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 243
+ERROR - 2016-11-30 11:03:28 --> Severity: Warning  --> Illegal string offset 'status' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 243
+ERROR - 2016-11-30 11:03:28 --> Severity: Warning  --> Illegal string offset 'status' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 243
+ERROR - 2016-11-30 11:03:28 --> Severity: Warning  --> Illegal string offset 'status' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 243
+ERROR - 2016-11-30 11:03:28 --> Severity: Warning  --> Illegal string offset 'status' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 243
+ERROR - 2016-11-30 11:03:28 --> Severity: Warning  --> Illegal string offset 'category' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 260
+ERROR - 2016-11-30 11:03:28 --> Severity: Warning  --> Illegal string offset 'category' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 260
+ERROR - 2016-11-30 11:03:28 --> Severity: Warning  --> Illegal string offset 'category' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 260
+ERROR - 2016-11-30 11:03:30 --> Severity: Warning  --> Illegal string offset 'category' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 260
+ERROR - 2016-11-30 11:03:30 --> Severity: Warning  --> Illegal string offset 'category' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 260
+ERROR - 2016-11-30 11:03:30 --> Severity: Warning  --> Illegal string offset 'category' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 260
+ERROR - 2016-11-30 11:03:30 --> Severity: Warning  --> Illegal string offset 'office_name' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 306
+ERROR - 2016-11-30 11:03:30 --> Severity: Warning  --> Illegal string offset 'office_name' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 306
+ERROR - 2016-11-30 11:03:30 --> Severity: Warning  --> Illegal string offset 'office_name' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 306
+ERROR - 2016-11-30 11:03:30 --> Severity: Warning  --> Illegal string offset 'office_name' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 306
+ERROR - 2016-11-30 11:03:30 --> Severity: Warning  --> Illegal string offset 'regional' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 323
+ERROR - 2016-11-30 11:03:30 --> Severity: Warning  --> Illegal string offset 'regional' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 323
+ERROR - 2016-11-30 11:03:30 --> Severity: Warning  --> Illegal string offset 'regional' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 323
+ERROR - 2016-11-30 11:03:30 --> Severity: Warning  --> Illegal string offset 'regional' C:\xampp\htdocs\app\application\modules\main\views\modalAddTicket.php 323
+ERROR - 2016-11-30 11:03:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:03:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:04:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:05:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:06:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:07:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:07:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:07:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:07:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:07:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:07:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:07:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:07:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:07:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:07:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:07:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:07:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:41 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:41 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:41 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:41 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:44 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:44 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:44 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:44 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:47 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:47 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:47 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:47 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:50 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:50 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:50 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:50 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:08:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:08:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:41 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:41 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:41 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:41 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:44 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:44 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:44 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:44 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:47 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:47 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:47 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:47 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:50 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:50 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:50 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:50 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:09:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:09:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:42 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:42 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:42 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:42 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:42 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:42 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:42 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:42 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:44 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:44 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:44 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:44 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:47 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:47 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:47 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:47 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:50 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:50 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:50 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:50 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:53 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:56 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:10:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:10:59 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:02 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:05 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:08 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:11 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:14 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:17 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:20 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:23 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:26 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:29 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:32 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:35 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:38 --> Query error: Table 'helpdesk_sys.ci_sessions' doesn't exist
+ERROR - 2016-11-30 11:11:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:41 --> Query error: Table 'helpdesk_sys.ticket' doesn't exist
+ERROR - 2016-11-30 11:11:41 --> Query error: Table 'helpdesk_sys.ticket_detail' doesn't exist
+ERROR - 2016-11-30 11:11:41 --> Query error: Table 'helpdesk_sys.ticket_detail' doesn't exist
+ERROR - 2016-11-30 11:11:42 --> Query error: Table 'helpdesk_sys.ticket' doesn't exist
+ERROR - 2016-11-30 11:11:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:11:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:12:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:14 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:17 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:20 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:23 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:26 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:29 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:32 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:35 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:38 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:41 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:44 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:47 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:50 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:53 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:56 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:13:59 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:02 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:05 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:08 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
+ERROR - 2016-11-30 11:14:11 --> Severity: Notice  --> Only variable references should be returned by reference C:\xampp\htdocs\app\system\core\Common.php 257
