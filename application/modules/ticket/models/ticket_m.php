@@ -20,4 +20,5 @@ class Ticket_m extends CI_Model
             'ip_address'        => $this->input->ip_address(),
             'is_active'         => '0',
         ));
+    }
 }
