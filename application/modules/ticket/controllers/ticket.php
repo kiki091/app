@@ -29,7 +29,7 @@ class Ticket extends Public_Controller
 		$this->form_validation->set_rules('code','code','trim|xss_clean');
 		$this->form_validation->set_rules('problem_status','Problem Status','trim|xss_clean');
 		$this->form_validation->set_rules('category','Problem Category','trim|xss_clean');
-		$this->form_validation->set_rules('recipient','Recipient','trim|xss_clean|addslashes|html_entities|htmlspecialchars|strip_tags');
+		$this->form_validation->set_rules('recipient','Recipient','trim|xss_clean|addslashes|html_entities|htmlspecialchars|strip_tags|max_length[25]');
 		$this->form_validation->set_rules('team_viewer_id','Team Viewer ID','trim|xss_clean|addslashes|html_entities|htmlspecialchars|strip_tags|max_length[15]');
 		$this->form_validation->set_rules('team_viewer_pass','Team Viewer Password','trim|xss_clean|addslashes|html_entities|htmlspecialchars|strip_tags|max_length[10]');
 		$this->form_validation->set_rules('assignee','Assignee To','trim|xss_clean');

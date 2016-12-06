@@ -3,9 +3,9 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 30, 2016 at 12:38 AM
--- Server version: 10.1.10-MariaDB
--- PHP Version: 5.6.19
+-- Generation Time: Dec 06, 2016 at 12:05 PM
+-- Server version: 10.1.16-MariaDB
+-- PHP Version: 7.0.9
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -87,7 +87,13 @@ CREATE TABLE `ci_sessions` (
 --
 
 INSERT INTO `ci_sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
-('e1f8aea321bd9833c1e370ef80d14715', '::1', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.2.2785.90 Safari/537.36', 1480441438, '');
+('7b370f2993ac6f275716f4b00592c80b', '::1', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.19.2840.71 Safari/537.36', 1481019238, ''),
+('81952e836369222c413f7b2f87547721', '::1', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.19.2840.71 Safari/537.36', 1481016235, ''),
+('b821b453b124d43b1e465eb7e0d10326', '::1', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.19.2840.71 Safari/537.36', 1481016235, ''),
+('c0724883fa0b1b10c16277f1ab4744e1', '::1', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.19.2840.71 Safari/537.36', 1481019238, ''),
+('ebcaf2cde9b10cad2b35d4e70ad45a75', '::1', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.19.2840.71 Safari/537.36', 1481022239, ''),
+('f72199c16fef51bab5665d6d119c1c79', '::1', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.19.2840.71 Safari/537.36', 1481016232, ''),
+('f7e3534db39b64ae21281af7a6fe418b', '::1', 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.19.2840.71 Safari/537.36', 1481016235, '');
 
 -- --------------------------------------------------------
 
@@ -271,6 +277,47 @@ INSERT INTO `log` (`id`, `username`, `activity_type`, `account_type`, `level`, `
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `office_name`
+--
+
+CREATE TABLE `office_name` (
+  `office_id` int(5) NOT NULL,
+  `name` varchar(30) NOT NULL,
+  `office_region_id` int(5) NOT NULL,
+  `create_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `office_name`
+--
+
+INSERT INTO `office_name` (`office_id`, `name`, `office_region_id`, `create_at`) VALUES
+(1, 'BBM', 11, '2016-12-06 08:30:50'),
+(2, 'BDH', 12, '2016-12-06 08:30:55');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `office_region`
+--
+
+CREATE TABLE `office_region` (
+  `region_id` int(5) NOT NULL,
+  `region_name` varchar(50) NOT NULL,
+  `create_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `office_region`
+--
+
+INSERT INTO `office_region` (`region_id`, `region_name`, `create_at`) VALUES
+(11, 'Mazda / BMW Banjarmasin', '2016-12-06 08:30:08'),
+(12, 'Daihatsu Banjarmasin', '2016-12-06 08:30:08');
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `problem_category`
 --
 
@@ -322,12 +369,11 @@ CREATE TABLE `ticket` (
   `id` bigint(10) NOT NULL,
   `code` bigint(16) NOT NULL,
   `recipient` varchar(25) NOT NULL,
-  `team_viewer_id` bigint(15) NOT NULL,
-  `team_viewer_pass` bigint(10) NOT NULL,
+  `team_viewer_id` int(15) NOT NULL,
+  `team_viewer_pass` int(10) NOT NULL,
   `title` varchar(30) NOT NULL,
   `problem_status` varchar(25) NOT NULL,
   `category` varchar(20) NOT NULL,
-  `filename` varchar(50) DEFAULT NULL,
   `description` text NOT NULL,
   `office_name` varchar(25) NOT NULL,
   `branch` varchar(25) NOT NULL,
@@ -341,18 +387,23 @@ CREATE TABLE `ticket` (
 -- Dumping data for table `ticket`
 --
 
-INSERT INTO `ticket` (`id`, `code`, `recipient`, `team_viewer_id`, `team_viewer_pass`, `title`, `problem_status`, `category`, `filename`, `description`, `office_name`, `branch`, `assignee`, `time_create`, `ip_address`, `is_active`) VALUES
-(15, 10019600112671, 'kiki', 0, 0, 'WIFI MATI', 'Normal', 'Software', '', 'Jaringan wifi lantai 2 mati tolong segera di perbaiki', 'BMW', 'Jakarta Selatan', 'helpdesk', '2016-11-02 10:21:42', '::1', 1),
-(16, 2160161120499, 'kiki', 0, 0, 'Email Erorr', 'Urgent', 'Software', '', 'Email erorr', 'BMW', 'Jakarta Selatan', 'helpdesk', '2016-11-08 09:25:29', '::1', 1),
-(26, 11414661102057, 'kiki', 0, 0, 'Email Erorr', 'Normal', 'Software', '', 'Test', 'BMW', 'Jakarta Selatan', 'suport', '2016-11-14 13:21:06', '::1', 0),
-(27, 74206216143111, 'kiki', 0, 0, 'Email Erorr', 'Normal', 'Software', '', 'Test', 'BMW', 'Jakarta Selatan', 'suport', '2016-11-14 21:47:41', '::1', 0),
-(28, 21104025111166, 'kiki', 0, 0, 'Email Erorr', 'Urgent', 'Software', '', 'Email erorr tidak bisa login', 'BMW', 'Jakarta Selatan', 'suport', '2016-11-14 21:51:33', '::1', 0),
-(29, 15421201614711, 'kiki', 0, 0, 'WIFI MATI', 'Normal', 'Hardware', '', 'Jaringan wifi mati, ip conflik', 'BMW', 'Jakarta Selatan', 'helpdesk', '2016-11-14 21:52:15', '::1', 0),
-(30, 52611172112405, 'kiki', 0, 0, 'Email Erorr', 'Normal', 'Software', '', 'Test', 'BMW', 'Jakarta Selatan', 'helpdesk', '2016-11-14 21:57:43', '::1', 0),
-(31, 41201106112851, 'kiki', 0, 0, 'WIFI MATI', 'Emergency', 'Network', '', 'Test', 'BMW', 'Jakarta Selatan', 'suport', '2016-11-14 21:58:27', '::1', 0),
-(32, 10221001561669, 'Fikri', 0, 0, 'Software Erorr', 'Urgent', 'Software', '', 'Software POS Erorr', 'BMW', 'Jakarta', 'suport', '2016-11-20 16:59:56', '::1', 0),
-(33, 1165120926721, 'kiki', 0, 0, 'Email Erorr', 'Normal', 'Software', '', 'test', 'BMW', 'Jakarta Selatan', 'suport', '2016-11-27 02:01:03', '::1', 0),
-(44, 13146202727100, 'kiki', 0, 0, 'WIFI MATI', 'Emergency', 'Network', 'no-images', 'wifi mati', 'BMW', 'Jakarta Selatan', 'enginering', '2016-11-27 02:43:25', '::1', 0);
+INSERT INTO `ticket` (`id`, `code`, `recipient`, `team_viewer_id`, `team_viewer_pass`, `title`, `problem_status`, `category`, `description`, `office_name`, `branch`, `assignee`, `time_create`, `ip_address`, `is_active`) VALUES
+(15, 10019600112671, 'kiki', 0, 0, 'WIFI MATI', 'Normal', 'Software', 'Jaringan wifi lantai 2 mati tolong segera di perbaiki', 'BMW', 'Jakarta Selatan', 'helpdesk', '2016-11-02 10:21:42', '::1', 1),
+(16, 2160161120499, 'kiki', 0, 0, 'Email Erorr', 'Urgent', 'Software', 'Email erorr', 'BMW', 'Jakarta Selatan', 'helpdesk', '2016-11-08 09:25:29', '::1', 1),
+(26, 11414661102057, 'kiki', 0, 0, 'Email Erorr', 'Normal', 'Software', 'Test', 'BMW', 'Jakarta Selatan', 'suport', '2016-11-14 13:21:06', '::1', 0),
+(27, 74206216143111, 'kiki', 0, 0, 'Email Erorr', 'Normal', 'Software', 'Test', 'BMW', 'Jakarta Selatan', 'suport', '2016-11-14 21:47:41', '::1', 0),
+(28, 21104025111166, 'kiki', 0, 0, 'Email Erorr', 'Urgent', 'Software', 'Email erorr tidak bisa login', 'BMW', 'Jakarta Selatan', 'suport', '2016-11-14 21:51:33', '::1', 0),
+(29, 15421201614711, 'kiki', 0, 0, 'WIFI MATI', 'Normal', 'Hardware', 'Jaringan wifi mati, ip conflik', 'BMW', 'Jakarta Selatan', 'helpdesk', '2016-11-14 21:52:15', '::1', 0),
+(30, 52611172112405, 'kiki', 0, 0, 'Email Erorr', 'Normal', 'Software', 'Test', 'BMW', 'Jakarta Selatan', 'helpdesk', '2016-11-14 21:57:43', '::1', 0),
+(31, 41201106112851, 'kiki', 0, 0, 'WIFI MATI', 'Emergency', 'Network', 'Test', 'BMW', 'Jakarta Selatan', 'suport', '2016-11-14 21:58:27', '::1', 0),
+(32, 10221001561669, 'Fikri', 0, 0, 'Software Erorr', 'Urgent', 'Software', 'Software POS Erorr', 'BMW', 'Jakarta', 'suport', '2016-11-20 16:59:56', '::1', 0),
+(33, 1165120926721, 'kiki', 0, 0, 'Email Erorr', 'Normal', 'Software', 'test', 'BMW', 'Jakarta Selatan', 'suport', '2016-11-27 02:01:03', '::1', 0),
+(44, 13146202727100, 'kiki', 0, 0, 'WIFI MATI', 'Emergency', 'Network', 'wifi mati', 'BMW', 'Jakarta Selatan', 'enginering', '2016-11-27 02:43:25', '::1', 0),
+(45, 91032116046812, 'kiki', 876867, 86986, 'contoh banner', 'Normal', 'Software', 'fasdf', 'BMW', 'Jakarta Selatan', 'helpdesk', '2016-12-06 14:19:55', '::1', 0),
+(46, 25504611120619, 'Fikri', 876867, 86986, 'WIFI MATI', 'Emergency', 'Network', 'sdgadg', 'BMW', 'Jakarta Selatan', 'enginering', '2016-12-06 14:22:45', '::1', 0),
+(47, 22064516210241, 'Fikri', 876867, 86986, 'PC Blue Screen', 'Urgent', 'Hardware', 'xvasdvasdf', 'BMW', 'Jakarta Selatan', 'enginering', '2016-12-06 14:27:38', '::1', 0),
+(48, 11162274000692, 'kiki', 876867, 86986, 'Email Erorr', 'Normal', 'Software', 'dgsd', 'BMW', 'Jakarta Selatan', 'suport', '2016-12-06 14:29:33', '::1', 0),
+(49, 10406126031220, 'Fikri', 876867, 86986, 'WIFI MATI', 'Normal', 'Software', '56461', 'BMW', 'Jakarta Selatan', 'suport', '2016-12-06 14:32:22', '::1', 0);
 
 -- --------------------------------------------------------
 
@@ -416,6 +467,18 @@ ALTER TABLE `log`
   ADD PRIMARY KEY (`id`);
 
 --
+-- Indexes for table `office_name`
+--
+ALTER TABLE `office_name`
+  ADD PRIMARY KEY (`office_id`);
+
+--
+-- Indexes for table `office_region`
+--
+ALTER TABLE `office_region`
+  ADD PRIMARY KEY (`region_id`);
+
+--
 -- Indexes for table `problem_category`
 --
 ALTER TABLE `problem_category`
@@ -465,6 +528,16 @@ ALTER TABLE `employes`
 ALTER TABLE `log`
   MODIFY `id` bigint(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=129;
 --
+-- AUTO_INCREMENT for table `office_name`
+--
+ALTER TABLE `office_name`
+  MODIFY `office_id` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+--
+-- AUTO_INCREMENT for table `office_region`
+--
+ALTER TABLE `office_region`
+  MODIFY `region_id` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+--
 -- AUTO_INCREMENT for table `problem_category`
 --
 ALTER TABLE `problem_category`
@@ -478,7 +551,7 @@ ALTER TABLE `problem_status`
 -- AUTO_INCREMENT for table `ticket`
 --
 ALTER TABLE `ticket`
-  MODIFY `id` bigint(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=45;
+  MODIFY `id` bigint(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=50;
 --
 -- AUTO_INCREMENT for table `ticket_detail`
 --
