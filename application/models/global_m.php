@@ -21,15 +21,14 @@ class Global_m extends CI_Model {
 
     public function getOfficeName()
     {
-        $result = $this->db->get('office_name');
-        if($result->num_rows() > 0)
-        {
-            return $result->result_array();
-        }
-        else
-        {
-            return array();
-        }
+        $this->db->select('regional, office_name, create_at');
+        $this->db->from('branch_office');
+        $this->db->order_by('create_at','asc');
+            
+        $res = $this->db->get();
+            
+        if ($res->num_rows() > 0) return $res->result_array();
+        return false;
     }
 
     public function getBranchOffice($office_id ='')

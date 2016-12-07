@@ -123,27 +123,14 @@
 										<option>CHOSE OFFICE NAME</option>
 										<?php if(isset($office_name)):?>
 											<?php foreach ($office_name as $key => $office_name):?>
-												<option value="<?php echo $office_name['office_id'];?>"><?php echo $office_name['name'];?> </option>
+												<option value="<?php echo $office_name['regional'];?>"><?php echo $office_name['office_name'];?> <?php echo $office_name['regional'];?></option>
 											<?php endforeach;?>
 										<?php endif;?>
 									</select>
 								</div>
 							</div>
 						</div>
-
-						<div class="form-group">
-							<label class="col-sm-3 control-label no-padding-right" for="form-field-1">Branch Office</label>
-							<div class="col-sm-9">
-								<div class="input-group">
-									<span class="input-group-addon"><i class="fa fa-building-o"></i></span>
-									<select name="region_id" class="form-control" id="region_id">
-										<option>CHOSE BRANCH OFFICE</option>
-										
-									</select>
-								</div>
-							</div>
-						</div>
-
+						
 						<div class="form-group">
 							<label class="col-sm-3 control-label no-padding-right" for="form-field-1">Date </label>
 

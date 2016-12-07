@@ -16,23 +16,7 @@
 										<option>CHOSE OFFICE NAME</option>
 										<?php if(isset($office_name)):?>
 											<?php foreach ($office_name as $key => $office_name):?>
-												<option value="<?php echo $office_name['office_name'];?>"><?php echo $office_name['office_name'];?> </option>
-											<?php endforeach;?>
-										<?php endif;?>
-									</select>
-								</div>
-							</div>
-						</div>
-
-						<div class="form-group">
-							<div class="col-sm-12">
-								<div class="input-group">
-									<span class="input-group-addon"><i class="fa fa-building-o"></i></span>
-									<select name="branch_office" class="form-control" id="branch_office">
-										<option>CHOSE BRANCH OFFICE</option>
-										<?php if(isset($branch_office)):?>
-											<?php foreach ($branch_office as $key => $branch_office):?>
-												<option value="<?php echo $branch_office['regional'];?>"><?php echo $branch_office['regional'];?> </option>
+												<option value="<?php echo $office_name['regional'];?>"><?php echo $office_name['office_name'];?> <?php echo $office_name['regional'];?></option>
 											<?php endforeach;?>
 										<?php endif;?>
 									</select>

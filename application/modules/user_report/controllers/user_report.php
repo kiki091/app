@@ -26,7 +26,6 @@
 		public function byBranchOffice()
         {
             $this->form_validation->set_rules('office_name','Office Name','trim|xss_clean');
-            $this->form_validation->set_rules('branch_office','Branch Office','trim|xss_clean');
             $this->form_validation->set_rules('problem_category','Problem Category','trim|xss_clean');
             $this->form_validation->set_rules('problem_status','Problem Status','trim|xss_clean');
             $this->form_validation->set_rules('day','Per Tanggal','trim|xss_clean');
@@ -38,7 +37,7 @@
                 if($this->data['report'] != NULL)
                 {
                     ob_start();
-                    $this->data['title'] = "SUPORT CENTER <br/> ".strtoupper($this->input->post('office_name')."<br/>REGION ".$this->input->post('branch_office'));
+                    $this->data['title'] = "SUPORT CENTER <br/> ".strtoupper($this->input->post('office_name')."<br/>REGION ".$this->input->post('office_name'));
 
                     $content = $this->load->view('ReportBranchOffice',$this->data);
                     $content = ob_get_clean();
@@ -73,7 +72,6 @@
         {
             $this->form_validation->set_rules('month','Month','trim|xss_clean');
             $this->form_validation->set_rules('office_name','Office Name','trim|xss_clean');
-            $this->form_validation->set_rules('branch_office','Branch Office','trim|xss_clean');
             $this->form_validation->set_rules('problem_category','Problem Category','trim|xss_clean');
             if($this->form_validation->run($this))
             {
@@ -82,7 +80,7 @@
                 if($this->data['report'] != NULL)
                 {
                     ob_start();
-                    $this->data['title'] = "SUPORT CENTER <br/> ".strtoupper($this->input->post('office_name')."<br/>REGION ".$this->input->post('branch_office'));
+                    $this->data['title'] = "SUPORT CENTER <br/> ".strtoupper($this->input->post('office_name')."<br/>REGION ".$this->input->post('office_name'));
                     $content = $this->load->view('ReportPerMonth',$this->data);
                     $content = ob_get_clean();
                     

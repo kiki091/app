@@ -35,7 +35,6 @@ class Ticket extends Public_Controller
 		$this->form_validation->set_rules('assignee','Assignee To','trim|xss_clean');
 		$this->form_validation->set_rules('title','Problem Subject','trim|xss_clean|addslashes|html_entities|htmlspecialchars|strip_tags|max_length[25]');
 		$this->form_validation->set_rules('office','Office Name To','trim|xss_clean');
-		$this->form_validation->set_rules('branch','Branch Office','trim|xss_clean');
 		$this->form_validation->set_rules('description','Problem Description','trim|xss_clean|addslashes|html_entities|htmlspecialchars|strip_tags|max_length[255]');
 		
             
