@@ -113,3 +113,19 @@
 			}, 3000); 
 
 	</script>
+	<script src="http://code.jquery.com/jquery-1.4.js" type="text/javascript"></script>
+	<script>
+		$(document).ready(function(){
+			$("#office_id").change(function(){
+				var office_id = $("#office_id").val();
+				$.ajax({
+					type : "POST",
+					url : "<?php echo base_url('main/get-office-region');?>",
+					data : "office_id=" + office_id,
+					succcess: function(data){
+						$("#region_id").html(data);
+					}
+				});
+			});
+		});
+	</script>

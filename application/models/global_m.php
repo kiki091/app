@@ -21,26 +21,29 @@ class Global_m extends CI_Model {
 
     public function getOfficeName()
     {
-        $this->db->select('id, office_name');
-        $this->db->from('branch_office');
-        $this->db->order_by('regional','asc');
-            
-        $res = $this->db->get();
-            
-        if ($res->num_rows() > 0) return $res->result_array();
-        return false;
+        $result = $this->db->get('office_name');
+        if($result->num_rows() > 0)
+        {
+            return $result->result_array();
+        }
+        else
+        {
+            return array();
+        }
     }
 
-    public function getBranchOffice()
+    public function getBranchOffice($office_id ='')
     {
-        $this->db->select('id, regional');
-        $this->db->from('branch_office');
-        $this->db->order_by('regional','asc');
-            
-        $res = $this->db->get();
-            
-        if ($res->num_rows() > 0) return $res->result_array();
-        return false;
+        $this->db->where('office_name_id', $office_id);
+        $result_db = $this->db->get('office_region');
+        if($result_db->num_rows() > 0)
+        {
+            return $result_db->result_array();
+        }
+        else
+        {
+            return array();
+        }
     }
 
     public function getProblemCategory()

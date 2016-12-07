@@ -119,11 +119,11 @@
 							<div class="col-sm-9">
 								<div class="input-group">
 									<span class="input-group-addon"><i class="fa fa-building-o"></i></span>
-									<select name="office" class="form-control" id="office">
+									<select name="office_id" class="form-control" id="office_id">
 										<option>CHOSE OFFICE NAME</option>
 										<?php if(isset($office_name)):?>
 											<?php foreach ($office_name as $key => $office_name):?>
-												<option value="<?php echo $office_name['office_name'];?>"><?php echo $office_name['office_name'];?> </option>
+												<option value="<?php echo $office_name['office_id'];?>"><?php echo $office_name['name'];?> </option>
 											<?php endforeach;?>
 										<?php endif;?>
 									</select>
@@ -136,13 +136,9 @@
 							<div class="col-sm-9">
 								<div class="input-group">
 									<span class="input-group-addon"><i class="fa fa-building-o"></i></span>
-									<select name="branch" class="form-control" id="branch">
+									<select name="region_id" class="form-control" id="region_id">
 										<option>CHOSE BRANCH OFFICE</option>
-										<?php if(isset($branch_office)):?>
-											<?php foreach ($branch_office as $key => $branch_office):?>
-												<option value="<?php echo $branch_office['regional'];?>"><?php echo $branch_office['regional'];?> </option>
-											<?php endforeach;?>
-										<?php endif;?>
+										
 									</select>
 								</div>
 							</div>

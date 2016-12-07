@@ -11,6 +11,7 @@
 									<img class="pull-left" alt="Alex Doe's avatar" src="<?PHP echo base_url('assets/avatars/avatar5.png');?>" />
 									<a class="user" href="#"> <?php echo strtolower($ticket_progress['recipient']);?> </a>
 										submit problem "<?php echo strtolower($ticket_progress['title']);?>" assignee to <?php echo $ticket_progress['assignee'];?>.
+									<p>Team viewer ID : <?php echo $ticket_progress['team_viewer_id'];?> Password : <?php echo $ticket_progress['team_viewer_pass'];?></p>
 										
 									<div class="tools action-buttons">
 										<a onclick="return confirm('Do you really want to resolved problem ticket?');" href="<?php echo base_url('user/ticket/resolved/'.$ticket_progress['ticket_id']);?>" title="Resolved Ticket">
@@ -27,7 +28,10 @@
 
 						<?php endforeach; ?>
 					<?php else:?>
-						<h3 class="grey lighter smaller">NO DATA PREVIEW</h3>
+						<center>
+							<img style="max-height: 300px" class="img-responsive" src="<?php echo base_url('assets/images/imgpsh_fullsize.png');?>">
+						</center>
+						
 					<?php endif;?>
 			</div>
 		</div>
