@@ -21,7 +21,7 @@
 									<div class="time">
 										<i class="ace-icon fa fa-clock-o bigger-110"></i>
 										<?php echo nice_date($ticket_progress['time_create']);?>
-										| Branch : <?php echo $ticket_progress['branch'];?>
+										| Branch : <?php echo $ticket_progress['office_name'];?>
 									</div>
 								</div>
 							</div>
@@ -29,7 +29,7 @@
 						<?php endforeach; ?>
 					<?php else:?>
 						<center>
-							<img style="max-height: 300px" class="img-responsive" src="<?php echo base_url('assets/images/imgpsh_fullsize.png');?>">
+							<h1>NO DATA PREVIEW</h1>
 						</center>
 						
 					<?php endif;?>

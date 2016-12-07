@@ -5,7 +5,7 @@ class User_Report_m extends CI_Model
 	
     public function getTicketResolved($user_id= '')
 	{
-		$this->db->select('a.id, a.title, a.code, a.description, a.time_create, a.problem_status, a.assignee, a.branch, a.is_active, b.ticket_id, b.status, b.users_id', false);
+		$this->db->select('a.id, a.title, a.code, a.description, a.time_create, a.problem_status, a.assignee, a.office_name, a.is_active, b.ticket_id, b.status, b.users_id', false);
 		$this->db->from('ticket a');
 		$this->db->join('ticket_detail b', 'b.ticket_id = a.id', 'left');
 		$this->db->where(array('b.status'=>'resolved','b.users_id'=>$user_id));
@@ -23,10 +23,10 @@ class User_Report_m extends CI_Model
 		$day = strtotime($input['day']);
 		$perDay = date('Y-m-d',$day);
 
-		$this->db->select('a.id, a.title, a.code, a.description, a.time_create, a.problem_status, a.assignee, a.category, a.recipient, a.branch, a.is_active, b.ticket_id, b.time_accept, b.status, b.time_resolved', false);
+		$this->db->select('a.id, a.title, a.code, a.description, a.time_create, a.problem_status, a.assignee, a.category, a.recipient, a.office_name, a.is_active, b.ticket_id, b.time_accept, b.status, b.time_resolved', false);
 		$this->db->from('ticket a');
 		$this->db->join('ticket_detail b', 'b.ticket_id = a.id', 'left');
-		$this->db->where(array('b.status'=>'resolved', 'a.problem_status'=>$input['problem_status'], 'a.category'=>$input['problem_category'], 'a.branch'=>$input['branch_office'] , 'DATE_FORMAT(b.time_resolved,"%Y-%m-%d")'=>$perDay));
+		$this->db->where(array('b.status'=>'resolved', 'a.problem_status'=>$input['problem_status'], 'a.category'=>$input['problem_category'], 'a.office_name'=>$input['office_name'] , 'DATE_FORMAT(b.time_resolved,"%Y-%m-%d")'=>$perDay));
 		$this->db->order_by('b.time_resolved', 'desc');
 		$res = $this->db->get();
 		
@@ -37,10 +37,10 @@ class User_Report_m extends CI_Model
 
 	public function printByMonth($input ='')
 	{
-		$this->db->select('a.id, a.title, a.code, a.description, a.time_create, a.problem_status, a.assignee, a.category, a.recipient, a.branch, a.is_active, b.ticket_id, b.time_accept, b.status, b.time_resolved', false);
+		$this->db->select('a.id, a.title, a.code, a.description, a.time_create, a.problem_status, a.assignee, a.category, a.recipient, a.office_name, a.is_active, b.ticket_id, b.time_accept, b.status, b.time_resolved', false);
 		$this->db->from('ticket a');
 		$this->db->join('ticket_detail b', 'b.ticket_id = a.id', 'left');
-		$this->db->where(array('b.status'=>'resolved', 'a.category'=>$input['problem_category'], 'a.branch'=>$input['branch_office'] , 'DATE_FORMAT(b.time_resolved,"%m")'=>$input['month']));
+		$this->db->where(array('b.status'=>'resolved', 'a.category'=>$input['problem_category'], 'a.office_name'=>$input['office_name'] , 'DATE_FORMAT(b.time_resolved,"%m")'=>$input['month']));
 		$this->db->order_by('b.time_resolved', 'desc');
 		$res = $this->db->get();
 		

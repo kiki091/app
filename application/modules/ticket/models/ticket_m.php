@@ -13,7 +13,7 @@ class Ticket_m extends CI_Model
             'recipient'         => $input['recipient'],
             'team_viewer_id'    => $input['team_viewer_id'],
             'team_viewer_pass'  => $input['team_viewer_pass'],
-            'office_name'       => $input['branch'],
+            'office_name'       => $input['office'],
             'description'       => $input['description'],
             'time_create'       => date('Y-m-d H:i:s'),
             'ip_address'        => $this->input->ip_address(),

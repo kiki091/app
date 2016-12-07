@@ -14,7 +14,6 @@
 		public function index()
 		{
             $this->data['office_name'] = $this->global_m->getOfficeName();
-            $this->data['branch_office'] = $this->global_m->getBranchOffice();
             $this->data['problem_category'] = $this->global_m->getProblemCategory();
             $this->data['problem_status'] = $this->global_m->getProblemStatus();
             $this->data['menu_report'] = "active";
@@ -37,7 +36,7 @@
                 if($this->data['report'] != NULL)
                 {
                     ob_start();
-                    $this->data['title'] = "SUPORT CENTER <br/> ".strtoupper($this->input->post('office_name')."<br/>REGION ".$this->input->post('office_name'));
+                    $this->data['title'] = "SUPORT CENTER <br/> ".strtoupper($this->input->post('office_name'));
 
                     $content = $this->load->view('ReportBranchOffice',$this->data);
                     $content = ob_get_clean();
@@ -80,7 +79,7 @@
                 if($this->data['report'] != NULL)
                 {
                     ob_start();
-                    $this->data['title'] = "SUPORT CENTER <br/> ".strtoupper($this->input->post('office_name')."<br/>REGION ".$this->input->post('office_name'));
+                    $this->data['title'] = "SUPORT CENTER <br/> ".strtoupper($this->input->post('office_name'));
                     $content = $this->load->view('ReportPerMonth',$this->data);
                     $content = ob_get_clean();
                     

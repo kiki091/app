@@ -31,7 +31,7 @@ class Global_m extends CI_Model {
         return false;
     }
 
-    public function getBranchOffice($office_id ='')
+    /**public function getBranchOffice($office_id ='')
     {
         $this->db->where('office_name_id', $office_id);
         $result_db = $this->db->get('office_region');
@@ -43,7 +43,7 @@ class Global_m extends CI_Model {
         {
             return array();
         }
-    }
+    }*/
 
     public function getProblemCategory()
     {

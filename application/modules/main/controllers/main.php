@@ -68,7 +68,7 @@ class Main extends Public_Controller {
 		$this->load->view('LoadTotalTicketDone',$this->data);
 	}
 
-	public function getOfficeRegion()
+	/**public function getOfficeRegion()
 	{
 		$office_id = $this->input->post('office_id');
 		$region = $this->global_m->getBranchOffice($office_id);
@@ -78,7 +78,7 @@ class Main extends Public_Controller {
 		}
 		echo $data;
 	}
-	
+	*/
 }
 
 /* End of file home.php */

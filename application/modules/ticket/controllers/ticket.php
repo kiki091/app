@@ -60,7 +60,7 @@ class Ticket extends Public_Controller
 			}
 			else
 			{
-				$this->session->set_flashdata('pesan', 'Something went wrong when inserting data into network !!');
+				$this->session->set_flashdata('pesan', 'Ticket Problem has been added successful !!');
 				redirect('/');
 			}
 		}

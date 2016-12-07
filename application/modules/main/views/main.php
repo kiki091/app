@@ -113,6 +113,7 @@
 			}, 3000); 
 
 	</script>
+	<!--
 	<script src="http://code.jquery.com/jquery-1.4.js" type="text/javascript"></script>
 	<script>
 		$(document).ready(function(){
@@ -129,3 +130,4 @@
 			});
 		});
 	</script>
+	-->

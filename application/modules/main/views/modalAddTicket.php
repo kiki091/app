@@ -119,7 +119,7 @@
 							<div class="col-sm-9">
 								<div class="input-group">
 									<span class="input-group-addon"><i class="fa fa-building-o"></i></span>
-									<select name="office_id" class="form-control" id="office_id">
+									<select name="office" class="form-control" id="office_id">
 										<option>CHOSE OFFICE NAME</option>
 										<?php if(isset($office_name)):?>
 											<?php foreach ($office_name as $key => $office_name):?>

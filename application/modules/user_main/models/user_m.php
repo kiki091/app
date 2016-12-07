@@ -37,7 +37,7 @@ class User_m extends CI_Model
 
 	function getTicketProgress($user_id ='', $job_desk ='')
 	{
-		$this->db->select('a.id, a.title, a.code, a.description, a.recipient, a.team_viewer_id, a.team_viewer_pass, a.time_create, a.branch, a.is_active, a.assignee, a.problem_status, b.ticket_id, b.users_id, b.status, c.id, c.fullname, c.job_desk', false);
+		$this->db->select('a.id, a.title, a.code, a.description, a.recipient, a.team_viewer_id, a.team_viewer_pass, a.time_create, a.office_name, a.is_active, a.assignee, a.problem_status, b.ticket_id, b.users_id, b.status, c.id, c.fullname, c.job_desk', false);
 		$this->db->from('ticket a');
 		$this->db->join('ticket_detail b', 'b.ticket_id=a.id');
 		$this->db->join('employes c', 'c.id=b.users_id');
